@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@hookform/resolvers": "^5.1.1",
     "axios": "^1.10.0",
     "framer-motion": "^12.19.1",
     "next": "^15.3.4",

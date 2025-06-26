@@ -1,5 +1,5 @@
 import { create } from 'zustand';
-
+ 
 interface CartItem {
   productId: string;
   name: string;
